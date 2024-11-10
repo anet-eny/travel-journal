@@ -3,7 +3,7 @@ import Card from "./components/Card"
 
 export default function App() {
   return (
-    <div>
+    <div className="content-container">
       <Navbar />
       <Card />
     </div>
