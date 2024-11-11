@@ -14,5 +14,5 @@ A simple travel journal web application built with React. Users can view travel 
 - **Array Mapping**: Used JavaScript's `map()` method to generate a list of `Card` components from the `data` array, ensuring each card is unique.
 
 ## View Project
-
+https://anet-eny.github.io/travel-journal/
 
